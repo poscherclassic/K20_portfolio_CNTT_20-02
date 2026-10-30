@@ -1,5 +1,4 @@
-﻿
-/* PORTFOLIO V5 - TRAN VIET ANH
+﻿/* PORTFOLIO V5 - TRAN VIET ANH
    Nang cap tu CSS cu theo yeu cau Lab 5
 */
 *,
@@ -171,6 +170,7 @@ textarea:focus-visible {
   max-width: 100%;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center;
 }
 
 .skills {
