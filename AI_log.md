@@ -4,12 +4,12 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ ... ]
-- Mã sinh viên – Lớp: [ ... ]
-- Ngày thực hiện: [ ... ]
-- Link repository: [ ... ]
-- URL website: [ ... ]
-- Tình huống: [ ] Website của tôi  [ ] Repo luyện của giảng viên
+- Họ và tên: Đỗ Trung Kiên
+- Mã sinh viên – Lớp: 2071020107 - Lớp CNTT 20-02
+- Ngày thực hiện: 30/10/2026
+- Link repository: https://github.com/poscherclassic/K20_portfolio_CNTT_20-02.git
+- URL website: https://poscherclassic.github.io/K20_portfolio_CNTT_20-02/
+- Tình huống: Website của tôi còn sai link css
 
 ## 1. Nhận định của tôi trước khi hỏi AI
 
